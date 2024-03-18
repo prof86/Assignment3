@@ -1,4 +1,4 @@
-Create if not exists TABLE students (
+Create TABLE if not exists students (
 	student_id SERIAL Primary Key,
 	first_name Text  Not Null,
 	last_name Text  Not Null,
