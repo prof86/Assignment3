@@ -13,4 +13,4 @@ Run the sql file in psql or pgadmin to create the tables necessary to run the ap
 
 
 Youtube Link :
-https://www.youtube.com/watch?v=fATCxOcDWvM
+https://www.youtube.com/watch?v=6TTtr1aVqyc
